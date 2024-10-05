@@ -1,0 +1,58 @@
+data,hora,natureza,bairro,endereco,num_semaforo,sentido_via,tipo,auto,moto,ciclom,ciclista,pedestre,onibus,caminhao,viatura,outros,vitimas,vitimasfatais,acidente_verificado,tempo_clima,sinalizacao,condicao_via,conservacao_via,situacao_placa,velocidade_max_via,mao_direcao,divisao_via1
+2022-04-16 00:00:00,,COM VÍTIMA,VÁRZEA,AV CAXANGA,568,CIDADE,COLISÃO TRASEIRA,0,1,0,0,0,0,1,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Outras,,Dupla,Faixa contínua
+2022-04-16 00:00:00,,COM VÍTIMA,BOA VIAGEM,RUA VISCONDE DE JEQUITINHONHA,,SUBURBIO,COLISÃO TRANSVERSAL,0,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,"Placas ""Pare""",30 km/h,Única,Canteiro central
+2022-04-16 00:00:00,,COM VÍTIMA,ENCRUZILHADA,AV BEBERIBE,,,COLISÃO LATERAL,0,2,0,0,0,0,0,0,0,1,0,,,,,,,,,
+2022-04-16 00:00:00,,COM VÍTIMA,BOA VIAGEM,RUA TENENTE JOAO CICERO,,CIDADE,COLISÃO TRANSVERSAL,2,0,0,0,0,0,0,0,0,1,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,"Placas ""Pare""",,Única,Faixa contínua
+2022-04-16 00:00:00,,SEM VÍTIMA,VÁRZEA,RUA GASTAO VIDIGAL,,,COLISÃO TRASEIRA,1,0,0,0,0,0,1,0,0,0,0,,,,,,,,,
+2022-04-16 00:00:00,,COM VÍTIMA,PAISSANDU,AV GOVERNADOR AGAMENON MAGALHAES,,BOA VIAGEM,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,1,0,,,,,,,,,
+2022-04-17 00:00:00,,SEM VÍTIMA,TORRÕES,AV ENGENHEIRO ABDIAS DE CARVALHO,,,CHOQUE,1,0,0,0,0,0,0,0,0,0,0,Longo da via,Chuvoso,Perfeito estado,Molhada,Perfeito estado,Outras,60 km/h,Dupla,Canteiro central
+2022-04-17 00:00:00,,COM VÍTIMA,BOA VIAGEM,AV ENGENHEIRO DOMINGOS FERREIRA,545,CIDADE,COLISÃO TRANSVERSAL,1,1,0,0,0,0,0,0,0,1,0,Cruzamento,Bom,Perfeito estado,Molhada,Perfeito estado,Não há placas,60 km/h,Única,Faixa contínua
+2022-04-17 00:00:00,,COM VÍTIMA,BOA VIAGEM,RUA ERNESTO DE PAULA SANTOS,,CIDADE,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,2,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,R-4b,,Única,Faixa seccionada
+2022-04-17 00:00:00,,COM VÍTIMA,ÁGUA FRIA,AV BEBERIBE,187,SUBURBIO,COLISÃO TRASEIRA,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,R-6a,,Dupla,Faixa contínua
+2022-04-17 00:00:00,,COM VÍTIMA,TORREÃO,RUA NATIVIDADE SALDANHA,,SUBURBIO,QUEDA,0,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Outras,,Única,
+2022-04-17 00:00:00,,COM VÍTIMA,FUNDÃO,AV BEBERIBE,,CIDADE,COLISÃO FRONTAL,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Não há placas,,Dupla,Faixa
+2022-04-18 00:00:00,,COM VÍTIMA,CORDEIRO,AV ENGENHEIRO ABDIAS DE CARVALHO,58,SUBURBIO,COLISÃO TRANSVERSAL,2,0,0,0,0,0,0,0,0,1,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,R-4a,,Dupla,Canteiro central
+2022-04-18 00:00:00,,COM VÍTIMA,IPUTINGA,AV CAXANGA,,CIDADE,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Não há placas,60 km/h,Dupla,Canteiro central
+2022-04-18 00:00:00,,SEM VÍTIMA,VÁRZEA,AV CAXANGA,,CIDADE,COLISÃO TRASEIRA,2,0,0,0,0,0,0,1,0,0,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,R-32,60 km/h,Dupla,Faixa contínua
+2022-04-18 00:00:00,,SEM VÍTIMA,SANTO ANTÔNIO,,473,CIDADE,CHOQUE,1,0,0,0,0,0,0,0,0,0,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,,,Dupla,Canteiro central
+2022-04-18 00:00:00,,SEM VÍTIMA,BOA VIAGEM,AV DOM JOAO VI,,,COLISÃO TRASEIRA,2,0,0,0,0,0,0,0,0,0,0,,,,,,,,,
+2022-04-18 00:00:00,,COM VÍTIMA,IPUTINGA,RUA SAO MATEUS,,,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,1,0,,,,,,,,,
+2022-04-18 00:00:00,,COM VÍTIMA,CIDADE UNIVERSITÁRIA,AV PROFESSOR LUIZ FREIRE,,CIDADE,COLISÃO FRONTAL,1,1,0,0,0,0,0,0,0,1,0,,Bom,,Seca,Perfeito estado,Outras,,Dupla,Não existe
+2022-04-19 00:00:00,,COM VÍTIMA,CAMPO GRANDE,AV GOVERNADOR AGAMENON MAGALHAES,,CIDADE,COLISÃO TRASEIRA,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Incompleta,Seca,Perfeito estado,,,Dupla,Canal
+2022-04-19 00:00:00,,COM VÍTIMA,BOA VIAGEM,AV ENGENHEIRO DOMINGOS FERREIRA,139,SUBURBIO,COLISÃO TRASEIRA,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,R-4a,,Dupla,Canteiro central
+2022-04-19 00:00:00,,COM VÍTIMA,IPSEP,RUA ALVARO MOREYRA,,,COLISÃO FRONTAL,1,1,0,0,0,0,0,0,0,1,0,,,,,,,,,
+2022-04-19 00:00:00,,COM VÍTIMA,SÃO JOSÉ,AV SUL,311,CIDADE,COLISÃO LATERAL,0,2,0,0,0,0,0,0,0,2,0,Longo da via,Bom,Perfeito estado,Seca,,Não há placas,,Única,Não existe
+2022-04-20 00:00:00,,COM VÍTIMA,IMBIRIBEIRA,AV ANTONIO TORRES GALVAO,442,CIDADE,QUEDA,0,1,0,0,0,0,0,0,0,1,0,Cruzamento,Chuvoso,Perfeito estado,Molhada,Perfeito estado,Não há placas,,Única,Não existe
+2022-04-20 00:00:00,,SEM VÍTIMA,SANTO AMARO,RUA TREZE DE MAIO,427,SUBURBIO,COLISÃO TRASEIRA,1,1,0,0,0,0,0,0,0,0,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,Não há placas,40 km/h,Dupla,Faixa contínua
+2022-04-20 00:00:00,,SEM VÍTIMA,DOIS UNIDOS,RUA MAMEDE COELHO,,,COLISÃO LATERAL,2,0,0,0,0,0,0,0,0,0,0,,,,,,,,,
+2022-04-20 00:00:00,,COM VÍTIMA,VÁRZEA,AV CAXANGA,281,SUBURBIO,COLISÃO COM CICLISTA,1,0,0,1,0,0,0,0,0,1,0,Cruzamento,Chuvoso,Perfeito estado,Molhada,Perfeito estado,Não há placas,60 km/h,Dupla,Canteiro central
+2022-04-20 00:00:00,,SEM VÍTIMA,BOA VIAGEM,AV DOM JOAO VI,,SUBURBIO,COLISÃO TRASEIRA,3,0,0,0,0,0,0,1,0,0,0,Longo da via,Bom,Perfeito estado,Seca,Mal iluminada,,60 km/h,Dupla,Outros
+2022-04-20 00:00:00,,SEM VÍTIMA,BOA VIAGEM,RUA JOSE MARIA DE MIRANDA,,,COLISÃO TRASEIRA,1,1,0,0,0,0,0,0,0,0,0,,,,,,,,,
+2022-04-20 00:00:00,,COM VÍTIMA,DERBY,RUA JENER DE SOUZA,,CIDADE,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,R-6a,,Única,Faixa seccionada
+2022-04-20 00:00:00,,COM VÍTIMA,SAN MARTIN,AV GENERAL SAN MARTIN,326,,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,2,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,R-6a,40 km/h,Dupla,Não existe
+2022-04-21 00:00:00,,COM VÍTIMA,VÁRZEA,RUA GASTAO VIDIGAL,,,COLISÃO FRONTAL,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Não há placas,,Dupla,Faixa seccionada
+2022-04-21 00:00:00,,SEM VÍTIMA,PINA,AV CONSELHEIRO AGUIAR,138,CIDADE,COLISÃO TRANSVERSAL,2,0,0,0,0,0,0,0,0,0,0,Cruzamento,Bom,Incompleta,Seca,Perfeito estado,Não há placas,60 km/h,Única,Faixa contínua
+2022-04-21 00:00:00,,COM VÍTIMA,IBURA,AV DOIS RIOS,,SUBURBIO,COLISÃO FRONTAL,2,0,0,0,0,0,0,0,0,1,0,Cruzamento,Bom,Ilegível,Seca,Perfeito estado,"Placas ""Pare""",,Dupla,Não existe
+2022-04-22 00:00:00,,SEM VÍTIMA,CABANGA,AV ENGENHEIRO JOSE ESTELITA,,SUBURBIO,,0,0,0,0,0,1,0,1,0,0,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,,,Única,Canteiro central
+2022-04-22 00:00:00,,COM VÍTIMA,DERBY,PRC DO DERBY,40,CIDADE,COLISÃO COM CICLISTA,0,0,0,1,0,1,0,0,0,1,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,,50 km/h,Dupla,Faixa seccionada
+2022-04-22 00:00:00,,COM VÍTIMA,JIQUIÁ,RUA SAO MIGUEL,,SUBURBIO,COLISÃO TRANSVERSAL,1,1,0,0,0,0,0,0,0,1,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,Não há placas,,Dupla,Faixa contínua
+2022-04-22 00:00:00,,COM VÍTIMA,SANTO AMARO,AV CRUZ CABUGA,,SUBURBIO,COLISÃO LATERAL,0,1,0,0,0,1,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Não há placas,,Dupla,Faixa seccionada
+2022-04-22 00:00:00,,COM VÍTIMA,CASA AMARELA,AV NORTE MIGUEL ARRAES DE ALENCAR,95,CIDADE,ATROPELAMENTO DE PESSOA,1,0,0,0,1,0,0,0,0,1,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,Outras,60 km/h,Dupla,
+2022-04-22 00:00:00,,COM VÍTIMA,TAMARINEIRA,AV NORTE MIGUEL ARRAES DE ALENCAR,,CIDADE,ATROPELAMENTO DE PESSOA,0,1,0,0,1,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,R-6a,60 km/h,Dupla,Faixa seccionada
+2022-04-22 00:00:00,,COM VÍTIMA,BOA VIAGEM,RUA ERNESTO DE PAULA SANTOS,,,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,1,0,,,,,,,,,
+2022-04-22 00:00:00,,COM VÍTIMA,BOA VIAGEM,AVENIDA CELSO FURTADO (VIA MANGUE),,CIDADE,COLISÃO TRASEIRA,1,1,0,0,0,0,0,0,0,1,0,Cruzamento,Bom,Perfeito estado,Seca,Perfeito estado,Outras,60 km/h,Dupla,Canteiro central
+2022-04-22 00:00:00,,VÍTIMA FATAL,JOANA BEZERRA,RUA JARAGUARI,,,COLISÃO LATERAL,0,1,0,0,0,1,0,0,0,0,1,Longo da via,Bom,Não existente,Seca,Perfeito estado,Não há placas,,Única,Não existe
+2022-04-22 00:00:00,,COM VÍTIMA,SANTO AMARO,RUA AURORA,,SUBURBIO,COLISÃO TRASEIRA,1,1,0,0,0,0,0,0,0,1,0,Cruzamento,Bom,Não existente,Seca,Perfeito estado,Não há placas,60 km/h,,
+2022-04-22 00:00:00,,COM VÍTIMA,TEJIPIÓ,AV DR JOSE RUFINO,208,JABOATAO,COLISÃO TRANSVERSAL,1,2,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Incompleta,Seca,Mal conservada,Não há placas,,Dupla,Faixa contínua
+2022-04-22 00:00:00,,SEM VÍTIMA,JOANA BEZERRA,AV GOVERNADOR AGAMENON MAGALHAES,,,COLISÃO LATERAL,0,1,0,0,0,0,0,1,0,0,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Outras,,Dupla,Canteiro central
+2022-04-22 00:00:00,,COM VÍTIMA,CABANGA,AV SUL,260,SUBURBIO,COLISÃO LATERAL,1,0,0,0,0,1,0,0,0,1,0,Cruzamento,Chuvoso,Perfeito estado,Molhada,Perfeito estado,Não há placas,,Dupla,Não existe
+2022-04-23 00:00:00,,SEM VÍTIMA,BOA VIAGEM,AV ENGENHEIRO DOMINGOS FERREIRA,200,,COLISÃO FRONTAL,2,0,0,0,0,0,0,0,0,0,0,Cruzamento,Chuvoso,Perfeito estado,Molhada,Perfeito estado,,,Dupla,Canteiro central
+2022-04-23 00:00:00,,COM VÍTIMA,BOA VIAGEM,RUA RIBEIRO DE BRITO,697,SUBURBIO,COLISÃO TRANSVERSAL,1,0,1,0,0,0,0,0,0,1,0,Cruzamento,Chuvoso,Perfeito estado,Molhada,Perfeito estado,Não há placas,,Única,Faixa contínua
+2022-04-23 00:00:00,,COM VÍTIMA,TAMARINEIRA,RUA NETO DE MENDONCA,,CIDADE,COLISÃO LATERAL,1,1,0,0,0,0,0,0,0,1,0,Esquina,Bom,Perfeito estado,Seca,Perfeito estado,Outras,,Única,Não existe
+2022-04-23 00:00:00,,COM VÍTIMA,BAIRRO DO RECIFE,AV MILITAR,,SUBURBIO,COLISÃO FRONTAL,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Ilegível,Seca,Perfeito estado,Não há placas,,Única,Faixa seccionada
+2022-04-23 00:00:00,,COM VÍTIMA,DERBY,AV GOVERNADOR AGAMENON MAGALHAES,417,SUBURBIO,COLISÃO FRONTAL,2,0,0,0,0,0,0,0,0,1,0,Longo da via,Chuvoso,Perfeito estado,Molhada,Perfeito estado,Outras,,Única,Faixa seccionada
+2022-04-23 00:00:00,,COM VÍTIMA,PONTO DE PARADA,AV BEBERIBE,,,COLISÃO LATERAL,1,0,0,0,0,0,0,0,0,1,0,,,,,,,,,
+2022-04-23 00:00:00,,COM VÍTIMA,PRADO,RUA GOMES TABORDA,,SUBURBIO,COLISÃO TRANSVERSAL,1,1,0,0,0,0,0,0,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Outras,,Dupla,Faixa contínua
+2022-04-24 00:00:00,,VÍTIMA FATAL,DOIS UNIDOS,AV HILDEBRANDO DE VASCONCELOS,,SUBURBIO,CHOQUE,0,1,0,0,0,0,0,0,0,1,1,Longo da via,Chuvoso,Incompleta,Molhada,Perfeito estado,R-6a,,Dupla,Não existe
+2022-04-24 00:00:00,,COM VÍTIMA,CABANGA,AV SUL,,CIDADE,COLISÃO LATERAL,0,1,0,0,0,0,0,1,0,1,0,Longo da via,Bom,Perfeito estado,Seca,Perfeito estado,Não há placas,40 km/h,Dupla,Faixa seccionada
+2022-04-24 00:00:00,,SEM VÍTIMA,JIQUIÁ,RUA JUAREZ MILLET,,,COLISÃO FRONTAL,2,0,0,0,0,0,0,0,0,0,0,,,,,,,,,
